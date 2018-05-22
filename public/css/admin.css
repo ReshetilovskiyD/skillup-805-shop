@@ -1,0 +1,23 @@
+.content-wrapper{
+    background-color: #0151b6;
+}
+
+.draft{
+    background-color: #dd8894;
+}
+
+.ordered{
+    background-color: #00a7d0;
+}
+
+.sent{
+    background-color: #7a43b6;
+}
+
+.done {
+    background-color: green;
+}
+
+.table-striped>tbody>tr.ordered:nth-of-type(odd) {
+    background-color: #a3d1a3;
+}
